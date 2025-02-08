@@ -1,6 +1,6 @@
 
 class Calculator {
-// this jawn be caculatin
+// this jawn be caculating
     Calculator(){
 
     }
